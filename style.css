@@ -67,6 +67,9 @@
 
 body#layout #art-main {
     position: relative;
+	 background-image: url('http://promosirupiah.github.io/pbcasual/images/bg.jpg');
+    background-position: 0 0;
+    background-repeat: no-repeat;
 }
 
 body#layout .art-header {
