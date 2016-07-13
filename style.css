@@ -67,9 +67,7 @@
 
 body#layout #art-main {
     position: relative;
-	 background-image: url('http://promosirupiah.github.io/pbcasual/images/bg.jpg');
-    background-position: 0 0;
-    background-repeat: no-repeat;
+
 }
 
 body#layout .art-header {
@@ -264,7 +262,8 @@ body#layout .art-footer-default {
 
 #art-main
 {
-   background: #FFFFFF;
+	 background-image: url('http://promosirupiah.github.io/pbcasual/images/bg.jpg');
+    background-repeat: repeat;
    margin:0 auto;
    font-size: 13px;
    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
