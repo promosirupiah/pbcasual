@@ -98,11 +98,15 @@
    height: auto;
    min-height: 100px;
    min-width: 1%;
-   background-position: -500px top !important;
+   background-position: center top !important;
  background-size: cover !important; 
    background-repeat: repeat !important;
 }
-
+@media all and (max-width: 560px)
+{
+.responsive .art-header 
+{background-position: -500px top !important;}
+}
 .responsive .art-header .art-headline, 
 .responsive .art-header .art-slogan 
 {
