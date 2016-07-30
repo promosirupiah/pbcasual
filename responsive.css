@@ -98,8 +98,8 @@
    height: auto;
    min-height: 100px;
    min-width: 1%;
-   background-position: right center !important;
-   background-size: cover !important;
+   background-position: center center !important;
+/*   background-size: cover !important;*/
    background-repeat: repeat !important;
 }
 
