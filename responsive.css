@@ -128,13 +128,13 @@
    -ms-transform: none !important;
    transform: none !important;
 }
-
+/*
 .responsive .art-header #art-flash-area,
 .responsive .art-header .art-shapes>*
 {
    display: none;
 }
-
+*/
 .responsive #art-header-bg 
 {
    background-position: center center !important;
