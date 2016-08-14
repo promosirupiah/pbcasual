@@ -80,4 +80,4 @@
    -moz-box-sizing: border-box;
    box-sizing: border-box;
 }
-.date-header, .art-postheadericons {display:none;}
+.date-header, .art-postheadericons, .art-vmenu {display:none;}
